@@ -1,0 +1,21 @@
+C:\Users\rissm\Desktop\с#\дом стр 322\дом стр 322\bin\Debug\дом стр 322.exe.config
+C:\Users\rissm\Desktop\с#\дом стр 322\дом стр 322\bin\Debug\дом стр 322.exe
+C:\Users\rissm\Desktop\с#\дом стр 322\дом стр 322\bin\Debug\дом стр 322.pdb
+C:\Users\rissm\Desktop\с#\дом стр 322\дом стр 322\obj\Debug\дом стр 322.csprojAssemblyReference.cache
+C:\Users\rissm\Desktop\с#\дом стр 322\дом стр 322\obj\Debug\дом_стр_322.Form1.resources
+C:\Users\rissm\Desktop\с#\дом стр 322\дом стр 322\obj\Debug\дом_стр_322.Properties.Resources.resources
+C:\Users\rissm\Desktop\с#\дом стр 322\дом стр 322\obj\Debug\дом стр 322.csproj.GenerateResource.cache
+C:\Users\rissm\Desktop\с#\дом стр 322\дом стр 322\obj\Debug\дом стр 322.csproj.CoreCompileInputs.cache
+C:\Users\rissm\Desktop\с#\дом стр 322\дом стр 322\obj\Debug\дом стр 322.exe
+C:\Users\rissm\Desktop\с#\дом стр 322\дом стр 322\obj\Debug\дом стр 322.pdb
+C:\Users\ACER\source\repos\дом стр 322\дом стр 322\bin\Debug\дом стр 322.exe.config
+C:\Users\ACER\source\repos\дом стр 322\дом стр 322\bin\Debug\дом стр 322.exe
+C:\Users\ACER\source\repos\дом стр 322\дом стр 322\bin\Debug\дом стр 322.pdb
+C:\Users\ACER\source\repos\дом стр 322\дом стр 322\obj\Debug\дом стр 322.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\дом стр 322\дом стр 322\obj\Debug\дом стр 322.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\дом стр 322\дом стр 322\obj\Debug\дом_стр_322.Form1.resources
+C:\Users\ACER\source\repos\дом стр 322\дом стр 322\obj\Debug\дом_стр_322.Properties.Resources.resources
+C:\Users\ACER\source\repos\дом стр 322\дом стр 322\obj\Debug\дом стр 322.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\дом стр 322\дом стр 322\obj\Debug\дом стр 322.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\дом стр 322\дом стр 322\obj\Debug\дом стр 322.exe
+C:\Users\ACER\source\repos\дом стр 322\дом стр 322\obj\Debug\дом стр 322.pdb
